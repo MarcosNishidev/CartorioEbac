@@ -146,9 +146,9 @@ int main()
 	
 	    switch(opcao) //inicio da seleção
     	{
-	      case 1:
-	      registro();
-	      break;
+	       case 1:
+	       registro();
+	       break;
 		
 	     	case 2:
     		consulta();
